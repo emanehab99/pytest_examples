@@ -1,2 +1,3 @@
 # pytest_examples
-misc files to test pytest
+This repo contains few scripts to test basic pytest features
+
